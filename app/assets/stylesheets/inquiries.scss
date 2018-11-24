@@ -2,11 +2,11 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-.topPage, .confirmPage {
+.toppage, .confirmpage, .thanksPage {
   margin: 100px 0;
   .btn-primary, .btn-info {
-    width: 200px;
-    padding: 10px;
+  width: 200px;
+  padding: 10px;
   }
 }
 
@@ -26,5 +26,12 @@
   }
   .btn-info {
     margin-right: 20px;
+  }
+}
+
+.thanksPage {
+  text-align: center;
+  &_message {
+    font-size: 30px;
   }
 }
