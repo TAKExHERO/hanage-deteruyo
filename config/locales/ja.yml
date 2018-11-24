@@ -1,0 +1,8 @@
+ja:
+  activerecord:
+    attributes:
+      inquiry:
+        name: "鼻毛が出ている人のお名前"
+        email: "鼻毛が出ている人のメールアドレス"
+        relationship: "鼻毛が出ている人との関係"
+        content: "何か伝えたいこと"
